@@ -1,1 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body { min-height: 100% }
+
+.main {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.section {
+  flex: 1;
+}
