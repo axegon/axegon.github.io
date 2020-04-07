@@ -1,0 +1,16 @@
+title: "App Title"
+views: "views"
+header: "layout/header.html"
+contents: "layout/contents.html"
+footer: "layout/footer.html"
+icon: "static/favicon.ico"
+navbarId: "#_navbar"
+contentsId: "#_contents"
+footerId: "#_footer"
+templateDir: "views"
+initialPage: "index/index"
+debug: true
+styles:
+  - "static/styles/bulma.min.css"
+  - "static/styles/fa.min.css"
+  - "static/styles/styles.css"
