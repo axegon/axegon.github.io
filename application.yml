@@ -1,4 +1,4 @@
-title: "App Title"
+title: "Axegon"
 views: "views"
 header: "layout/header.html"
 contents: "layout/contents.html"
@@ -9,7 +9,7 @@ contentsId: "#_contents"
 footerId: "#_footer"
 templateDir: "views"
 initialPage: "index/index"
-debug: true
+debug: false
 styles:
   - "static/styles/bulma.min.css"
   - "static/styles/fa.min.css"
