@@ -8,8 +8,8 @@ navbarId: "#_navbar"
 contentsId: "#_contents"
 footerId: "#_footer"
 templateDir: "views"
+logLevel: "OFF"
 initialPage: "index/index"
-debug: false
 styles:
   - "static/styles/bulma.min.css"
   - "static/styles/fa.min.css"
