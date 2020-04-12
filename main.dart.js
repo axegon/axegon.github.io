@@ -8872,7 +8872,7 @@ $S:53}
 F.jD.prototype={
 $1:function(a){var u,t,s,r=null,q=B.oM(H.z(a),r).a,p=H.i(q.gS(q),"$idx")
 Y.mT(H.z(p.k(0,"logLevel")))
-q=F.fM("Application")
+q=F.fM("VELAX1")
 u=H.f([],[W.aB])
 t=new W.d8(u)
 C.a.i(u,W.l9(r))

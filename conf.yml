@@ -12,5 +12,6 @@ logLevel: "OFF"
 initialPage: "index/index"
 styles:
   - "static/styles/bulma.min.css"
+  - "static/styles/hover-min.css"
   - "static/styles/fa.min.css"
   - "static/styles/styles.css"

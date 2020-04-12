@@ -11,3 +11,23 @@ body { min-height: 100% }
 .section {
   flex: 1;
 }
+
+*[class*=" hvr-"] {
+  display: flex !important;
+}
+
+.deep-blue {
+    background: #1F2D57 !important;
+}
+
+.deep-blue-gradient {
+  background: linear-gradient(rgb(31, 45, 87) 0%, rgb(0, 0, 0) 90%);
+}
+
+.medium-blue {
+  background: #4C88FF !important;
+}
+
+.light-blue {
+  background: #6FE0E7 !important;
+}
