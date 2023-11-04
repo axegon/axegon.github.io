@@ -31,3 +31,11 @@ body { min-height: 100% }
 .light-blue {
   background: #6FE0E7 !important;
 }
+
+#_content_container {
+    background-color: #141414;
+}
+
+#_contents:p,span {
+    color: #888888;
+}
