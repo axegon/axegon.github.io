@@ -34,8 +34,9 @@ body { min-height: 100% }
 
 #_content_container {
     background-color: #141414;
+    color: #afafaf;
 }
 
-#_contents:p,span {
-    color: #888888;
+h1,h2,h3,h4,h5,h6 {
+    color: #afafaf !important;
 }
